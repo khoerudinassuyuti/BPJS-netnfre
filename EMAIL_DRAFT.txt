@@ -5,7 +5,7 @@ Kepada Yth. Tim Rekrutmen BPJS,
 Berikut saya lampirkan link GitHub untuk tugas/tes aplikasi Android (BPJS-NetInfra) yang diminta.
 Mohon dikonfirmasi apabila ada yang perlu saya perbaiki atau ditambahkan.
 
-GitHub repo: <PASTE_YOUR_GITHUB_LINK_HERE>
+GitHub repo: https://github.com/khoerudinassuyuti/BPJS-netnfre
 
 Informasi singkat:
 - Nama: Gisma Hoerudin

@@ -1,0 +1,21 @@
+Subject: Submission — BPJS-NetInfra (Android) Test — Gisma Hoerudin
+
+Kepada Yth. Tim Rekrutmen BPJS,
+
+Berikut saya lampirkan link GitHub untuk tugas/tes aplikasi Android (BPJS-NetInfra) yang diminta.
+Mohon dikonfirmasi apabila ada yang perlu saya perbaiki atau ditambahkan.
+
+GitHub repo: <PASTE_YOUR_GITHUB_LINK_HERE>
+
+Informasi singkat:
+- Nama: Gisma Hoerudin
+- Posisi: Android Developer (Penempatan: Jakarta)
+- Framework: Kotlin + Jetpack Compose (UI premium skeleton)
+- Fitur: Movie listing UI (placeholder), arsitektur MVVM (skeleton), API hooks siap ditambahkan
+- Catatan: Jika diperlukan, saya bisa mengirimkan APK dan dokumentasi rinci (topologi jaringan/dokumen infrastruktur) juga.
+
+Terima kasih atas perhatian dan kesempatan yang diberikan.
+
+Hormat saya,
+Gisma Hoerudin
+Email: khoerudinassuyuti@gmail.com
